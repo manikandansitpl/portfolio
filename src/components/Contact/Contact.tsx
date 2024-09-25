@@ -17,7 +17,6 @@ export function Contact() {
             <img src={emailIcon} alt="Email" />
           </a>
           <a href="">manikandansitpl3@gmail.com</a>
-          <a href="tel:+919944026348">9944026348</a>
         </div>
         <div>
           <a href="tel:+919944026348">
