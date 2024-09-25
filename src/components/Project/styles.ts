@@ -68,6 +68,7 @@ export const Container = styled.section`
         margin-top: auto;
         .tech-list{
           display: flex;
+          flex-wrap:wrap;
           align-items: center;
           gap: 2rem;
           font-size: 1.4rem;
