@@ -115,4 +115,4 @@ export const GlobalStyle = createGlobalStyle`
     //   color: var(--green);
     // }
   }
-`
+`;
